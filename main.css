@@ -1,0 +1,21 @@
+body{
+font-family:'nanumsquare';
+}
+h1,h2,h3,h4{
+    transform: rotate(-0.05deg;);
+    text-align: center;
+}
+.cover {
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    background-position:center;
+    color: white;
+    height: 400px;
+    padding-top: 60px;
+}
+
+.small {
+    width: 100px;
+    display: block;
+    margin: 30 auto 40;
+}
